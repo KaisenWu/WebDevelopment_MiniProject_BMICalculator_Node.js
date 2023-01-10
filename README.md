@@ -8,3 +8,7 @@ NPM packages used:
   
 Application screenshot:
 ![bmi](https://user-images.githubusercontent.com/93168873/211433374-49c9dc70-03b8-4b37-8bf7-8f4b689090a6.jpg)
+
+In order to run this applicatiom:
+  1. Install the node module: npm i.
+  2. Start the local server: node bmi.
